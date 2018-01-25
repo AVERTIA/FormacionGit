@@ -1,2 +1,5 @@
 # FormacionGit
-Repositorio Avertia para Formación. Este repositorio es para aprender a usar Git   
+Repositorio Avertia para formación
+
+En este repo aprendemos a usar git
+
